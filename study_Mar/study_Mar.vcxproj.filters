@@ -75,5 +75,29 @@
     <ClCompile Include="question8.c">
       <Filter>소스 파일\for_while</Filter>
     </ClCompile>
+    <ClCompile Include="example.c">
+      <Filter>소스 파일\if</Filter>
+    </ClCompile>
+    <ClCompile Include="example_operator.c">
+      <Filter>소스 파일\operator</Filter>
+    </ClCompile>
+    <ClCompile Include="example1.c">
+      <Filter>소스 파일\variable</Filter>
+    </ClCompile>
+    <ClCompile Include="example2.c">
+      <Filter>소스 파일\variable</Filter>
+    </ClCompile>
+    <ClCompile Include="example3.c">
+      <Filter>소스 파일\variable</Filter>
+    </ClCompile>
+    <ClCompile Include="example4.c">
+      <Filter>소스 파일\variable</Filter>
+    </ClCompile>
+    <ClCompile Include="example_scanf.c">
+      <Filter>소스 파일\scanf</Filter>
+    </ClCompile>
+    <ClCompile Include="example_scanf2.c">
+      <Filter>소스 파일\scanf</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
