@@ -1,0 +1,79 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="소스 파일">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;c++;cppm;ixx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="헤더 파일">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;h++;hm;inl;inc;ipp;xsd</Extensions>
+    </Filter>
+    <Filter Include="리소스 파일">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+    <Filter Include="소스 파일\variable">
+      <UniqueIdentifier>{978cc34e-b86a-4360-bb73-bc98a6593079}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\operator">
+      <UniqueIdentifier>{bca91e81-92e7-4cab-a5b4-ac9f8d9231c3}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\scanf">
+      <UniqueIdentifier>{5686bf85-91da-4a2e-8f43-de4f118d7d1d}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\if">
+      <UniqueIdentifier>{5a9a00df-59ec-4589-b977-a6e90a6c8175}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\for_while">
+      <UniqueIdentifier>{c0d61fcf-4455-477c-a169-adf08a3152e6}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="exam1.c">
+      <Filter>소스 파일\for_while</Filter>
+    </ClCompile>
+    <ClCompile Include="exam2.c">
+      <Filter>소스 파일\for_while</Filter>
+    </ClCompile>
+    <ClCompile Include="exam_break.c">
+      <Filter>소스 파일\for_while</Filter>
+    </ClCompile>
+    <ClCompile Include="99.c">
+      <Filter>소스 파일\for_while</Filter>
+    </ClCompile>
+    <ClCompile Include="exam3.c">
+      <Filter>소스 파일\for_while</Filter>
+    </ClCompile>
+    <ClCompile Include="exam_while.c">
+      <Filter>소스 파일\for_while</Filter>
+    </ClCompile>
+    <ClCompile Include="exam_do_while.c">
+      <Filter>소스 파일\for_while</Filter>
+    </ClCompile>
+    <ClCompile Include="question1.c">
+      <Filter>소스 파일\for_while</Filter>
+    </ClCompile>
+    <ClCompile Include="question2.c">
+      <Filter>소스 파일\for_while</Filter>
+    </ClCompile>
+    <ClCompile Include="question3.c">
+      <Filter>소스 파일\for_while</Filter>
+    </ClCompile>
+    <ClCompile Include="question4.c">
+      <Filter>소스 파일\for_while</Filter>
+    </ClCompile>
+    <ClCompile Include="question5.c">
+      <Filter>소스 파일\for_while</Filter>
+    </ClCompile>
+    <ClCompile Include="question6.c">
+      <Filter>소스 파일\for_while</Filter>
+    </ClCompile>
+    <ClCompile Include="question7.c">
+      <Filter>소스 파일\for_while</Filter>
+    </ClCompile>
+    <ClCompile Include="question8.c">
+      <Filter>소스 파일\for_while</Filter>
+    </ClCompile>
+  </ItemGroup>
+</Project>
